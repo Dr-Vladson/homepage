@@ -183,11 +183,11 @@ body {
 .experiences__header {
   color: var(--secondary-text-color);
   text-align: left;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 
 .experiences__experience {
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .experiences__experience-header {
@@ -195,7 +195,6 @@ body {
   text-decoration-color: var(--text-decoration-color);
   text-decoration-line: underline;
   text-align: left;
-  margin-bottom: 20px;
 }
 .experiences__experience-text {
   color: var(--secondary-text-color);
